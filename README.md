@@ -2,8 +2,8 @@
 
 ## To start
 
-* `git clone <repository-url>` this repository
-* `cd my-app`
+* `git clone <repository-url>`
+* `cd <this directory>`
 * `npm install`
 * `npm start`
 
